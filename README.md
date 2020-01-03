@@ -1,0 +1,1 @@
+该程序基于nodejs,采用express socket.io搭建的服务器程序，前端采用vue。
